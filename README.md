@@ -2,7 +2,7 @@
 🎓 Pursuing Master of Data Science, with a strong foundation in business analytics and applied statistics. <br>💻 Skilled in Python, R, SQL, Excel, and data visualization tools such as Power BI, Altair & ggplot2 <br>📊 Experienced in Machine Learning, Feature Engineering, ETL processes, dashboard creation, and process optimization <br>🤖 Interested in practical applications of AI, machine learning, and turning data into actionable insights. 
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diana-cornescu/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dianacornescu@outlook.com) 
 
 # 💻 Tech Stack:
